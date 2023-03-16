@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "123.57.20.226",
+      "port": 1921,
+      "driver": "PostgreSQL",
+      "name": "group",
+      "group": "group",
+      "database": "eso_db",
+      "username": "eso"
+    }
+  ]
+}
